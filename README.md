@@ -46,8 +46,6 @@ Windows 10 or later
 
 OpenGL-compatible graphics card
 
-Visual C++ Redistributable (if using Release build)
-
 カードマッチングゲーム（OpenGL）
 
 OpenGLを学習中に作成された、シンプルな3Dカードマッチングゲームです。本プロジェクトでは、基本的なゲームメカニクス、3Dレンダリング、ライティング技術を体験できます。
@@ -95,5 +93,3 @@ Card Matching Game.exe を開いてゲームを開始してください
 Windows 10以降
 
 OpenGL対応グラフィックカード
-
-Visual C++ 再頒布可能パッケージ（Releaseビルド使用時）
