@@ -1,51 +1,3 @@
-Card Matching Game (OpenGL)
-
-A simple 3D Card Matching Game built while learning OpenGL. This project demonstrates basic game mechanics, 3D rendering, and lighting techniques.
-
-Features
-
-Interactive 3D Environment
-
-Navigate the scene using W, A, S, D keys.
-
-Rotate the camera by right-clicking and dragging the mouse.
-
-Card Matching Gameplay
-
-Click on cards to flip them.
-
-Flip two cards and the game will check for matches:
-
-If the cards match, they disappear.
-
-If they don’t match, they flip back.
-
-Graphics & Lighting
-
-All cards are rendered into a 3D viewport.
-
-Implements Phong lighting to create realistic shading effects.
-
-How to Run
-
-Open the Card Matching Game.exe file to start the game.
-
-Make sure any required DLLs (e.g., glfw3.dll) are in the same folder as the executable.
-
-Controls
-Action	Key / Mouse
-Move Forward	W
-Move Backward	S
-Move Left	A
-Move Right	D
-Rotate Camera	Right Mouse Button + Drag
-Flip Card	Left Mouse Button Click
-Requirements
-
-Windows 10 or later
-
-OpenGL-compatible graphics card
-
 カードマッチングゲーム（OpenGL）
 
 OpenGLを学習中に作成された、シンプルな3Dカードマッチングゲームです。本プロジェクトでは、基本的なゲームメカニクス、3Dレンダリング、ライティング技術を体験できます。
@@ -93,3 +45,51 @@ Card Matching Game.exe を開いてゲームを開始してください
 Windows 10以降
 
 OpenGL対応グラフィックカード
+
+Card Matching Game (OpenGL)
+
+A simple 3D Card Matching Game built while learning OpenGL. This project demonstrates basic game mechanics, 3D rendering, and lighting techniques.
+
+Features
+
+Interactive 3D Environment
+
+Navigate the scene using W, A, S, D keys.
+
+Rotate the camera by right-clicking and dragging the mouse.
+
+Card Matching Gameplay
+
+Click on cards to flip them.
+
+Flip two cards and the game will check for matches:
+
+If the cards match, they disappear.
+
+If they don’t match, they flip back.
+
+Graphics & Lighting
+
+All cards are rendered into a 3D viewport.
+
+Implements Phong lighting to create realistic shading effects.
+
+How to Run
+
+Open the Card Matching Game.exe file to start the game.
+
+Make sure any required DLLs (e.g., glfw3.dll) are in the same folder as the executable.
+
+Controls
+Action	Key / Mouse
+Move Forward	W
+Move Backward	S
+Move Left	A
+Move Right	D
+Rotate Camera	Right Mouse Button + Drag
+Flip Card	Left Mouse Button Click
+Requirements
+
+Windows 10 or later
+
+OpenGL-compatible graphics card
